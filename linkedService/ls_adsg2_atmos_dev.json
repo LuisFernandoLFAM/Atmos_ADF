@@ -1,0 +1,10 @@
+{
+	"name": "ls_adsg2_atmos_dev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://saatmosdevwestus20001.dfs.core.windows.net/"
+		}
+	}
+}
