@@ -90,7 +90,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "https://kv-atmos-dev-westus2001.vault.azure.net//secrets/isualcrossing-api-key-dev/207819dab51446f9b82303dd2023de13?api-version=2025-07-01",
+					"url": "https://https://kv-atmos-dev-westus2001.vault.azure.net//secrets/isualcrossing-api-key-dev/207819dab51446f9b82303dd2023de13?api-version=2025-07-01",
 					"authentication": {
 						"type": "MSI",
 						"resource": "https://vault.azure.net/.default"
