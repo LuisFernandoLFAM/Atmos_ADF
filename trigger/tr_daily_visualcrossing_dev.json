@@ -1,0 +1,26 @@
+{
+	"name": "tr_daily_visualcrossing_dev",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2026-04-29T04:01:00",
+				"endTime": "2026-04-30T04:01:00",
+				"timeZone": "E. South America Standard Time",
+				"schedule": {
+					"minutes": [
+						0
+					],
+					"hours": [
+						7
+					]
+				}
+			}
+		}
+	}
+}
